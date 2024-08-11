@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+</p>
+
 ### Hi there 👋<h2> I'm Abhishek </h2>
 
 # A Full Stack Web Developer
