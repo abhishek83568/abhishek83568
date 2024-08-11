@@ -18,17 +18,6 @@
 - 🌐 &nbsp; HTML | CSS | JavaScript | Mongo | ReactJS | Node | Express
 
 
-
-
-
-<h3>🛠 To Learn</h3>
-
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
-
-<hr>
-
-
-
 <br/><br/>
 
 [![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishek83568&show_icons=true)](https://github.com/shivam0110)
@@ -41,20 +30,14 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek83568&show_icons=true)
 
-<br><br>
-
-
+<br>
 
 <hr>
-
-
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <br>
-
-</p>
-
+<a href="mailto:abhishek83568@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <hr>
 
 
