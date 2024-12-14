@@ -26,7 +26,7 @@
 
 <br/><br/>
 
-[![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishek83568&show_icons=true)](https://github.com/shivam0110)
+[![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishek83568&show_icons=true)](https://github.com/abhishek83568)
 
 <br/>
 
